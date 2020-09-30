@@ -1,7 +1,7 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/.jpg"
+  bg_image : "images/kndnfmbg.jpg"
   title : "KNDN 97.5 FM"
   content : "Indian Country"
   button:
@@ -15,20 +15,20 @@ about:
   enable : true
   title : "About Us"
   description : "KNDN 97.5 FM Indian Country is proud to be a part of the 4-corners community!"
-  content : "Thanks for letting us be a part of your day!"
-  image : "images/relaxradio.jpg"
+  content : ""
+  image : "images/kndnfmlogo.jpg"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/vertgreyantenna.jpg"
+  bg_image : "images/blueskyantenna.jpg"
   title : ""
   content : ""
   button:
     enable : true
     label : "FCC Public File"
-    link : "https://publicfiles.fcc.gov/fm-profile/kwyk-fm"
+    link : "https://publicfiles.fcc.gov/fm-profile/kndn-fm"
 
 
 ############################# Service ############################
